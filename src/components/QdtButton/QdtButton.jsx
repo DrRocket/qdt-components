@@ -34,8 +34,7 @@ const QdtButton = (props) => {
         if (qViz) {
           const _options = (options) || { format: 'CSV_T', state: 'P' };
           const url = await qViz.exportData(_options);
-          const _url = url.split(/(?=http.?:\/\/)(.*)(?=http.?:\/\/)/)[2];
-          window.open(_url, '_blank');
+          window.open(url, '_blank');
         }
         break;
       case 'exportImg':

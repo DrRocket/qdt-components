@@ -77,5 +77,6 @@
     "start": "webpack --watch",
     "build": "webpack",
     "lint": "eslint . --ignore-path .gitignore --cache"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@drrocket"}
 }

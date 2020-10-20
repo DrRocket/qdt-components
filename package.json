@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DrRocket/qdt-components.git"
+    "url": "git@https://github.com/DrRocket/qdt-components.git"
   },
   "keywords": [
     "qlik",

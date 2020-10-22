@@ -1,6 +1,6 @@
 {
   "name": "@drrocket/qdt-components",
-  "version": "2.6.0",
+  "version": "2.6.1",
   "description": "Qlik Demo Team Components",
   "main": "dist/qdt-components.js",
   "types": "./types/qdt-components.d.ts",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DrRocket/qdt-components.git"
+    "url": "git+https://github.com/drrocket/qdt-components.git"
   },
   "keywords": [
     "qlik",
